@@ -1,0 +1,32 @@
+body {
+    padding-top: 80px;
+}
+
+.btn {
+    margin-top: 10px;
+    background-color: #fb68e2;
+    border-color: #fb68e2;
+    color: #000;
+    display: block;
+    justify-content: center;
+}
+
+.btn:hover {
+    background-color: #61e7d1;
+    border-color: #61e7d1;
+    color: #000;
+}
+
+.btn:active {
+    background-color: #61e7d1 !important;
+    border-color: #61e7d1 !important;
+    color: #000 !important;
+}
+.form-group{
+    justify-content: center;
+    align-items: start;
+    display: grid;
+}
+.form-control{
+    width: 500px;
+}
